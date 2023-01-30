@@ -1,0 +1,3 @@
+
+import base64
+exec(base64.b64decode('aW1wb3J0IG9zCmltcG9ydCBwCgpvcy5zeXN0ZW0oImNsZWFyIikKb3Muc3lzdGVtKCJnaXQgcHVsbCIpCm9zLnN5c3RlbSgiY2xlYXIiKQpwLmF6aW12YXUoKQo='))
