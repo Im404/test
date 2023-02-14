@@ -1,1 +1,2 @@
-import base64                                     exec(base64.b64decode('aW1wb3J0IG9zLHRpbWUKZnJvbSB1cCBpbXBvcnQgbWFpbl9hcHYKb3Muc3lzdGVtKCJjbGVhciIpCm9zLnN5c3RlbSgiZ2l0IHB1bGwiKQptYWluX2FwdigpCg=='))
+import base64
+exec(base64.b64decode('aW1wb3J0IG9zLHRpbWUKZnJvbSB1cCBpbXBvcnQgbWFpbl9hcHYKb3Muc3lzdGVtKCJjbGVhciIpCm9zLnN5c3RlbSgiZ2l0IHB1bGwiKQptYWluX2FwdigpCg=='))
