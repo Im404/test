@@ -1,5 +1,4 @@
 #404
-PAID TOOLS
 
 <h1 align="center"> [404]</h1>
 
@@ -18,7 +17,7 @@ PAID TOOLS
 - `pip install requests`
 - `pip install mechanize`
 - `pip install bs4`
-- `rm -rf AKING`
+- `rm -rf test`
 - `git clone --depth=1 https://github.com/Im404/test.git`
 - `cd test`
 - `python 404.py`
