@@ -1,4 +1,4 @@
-#404
+<hi>404</hi>
 
 <h1 align="center"> [404]</h1>
 
@@ -22,6 +22,8 @@
 - `git clone --depth=1 https://github.com/Im404/test.git`
 - `cd test`
 - `python 404.py`
+
+
 
 
 
