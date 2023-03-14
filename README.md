@@ -17,7 +17,7 @@
 - `pip install requests`
 - `pip install mechanize`
 - `pip install bs4`
-- `termux-setup-storage
+- `termux-setup-storage`
 - `rm -rf test`
 - `git clone --depth=1 https://github.com/Im404/test.git`
 - `cd test`
