@@ -1,2 +1,4 @@
-import base64
-exec(base64.b64decode('aW1wb3J0IG9zLHBsYXRmb3JtCmZyb20gdXAgaW1wb3J0IG1haW5fYXB2Cm9zLnN5c3RlbSgnZ2l0IHB1bGwnKQogCnNpcz1wbGF0Zm9ybS5hcmNoaXRlY3R1cmUoKVswXQppZiBzaXM9PSIzMmJpdCI6CiAgICBwcmludCgnU29ycnkgWW91ciBEZXZpY2UgSXMgTm90IFN1cHBvcnRlZC4uLicpCmVsaWYgc2lzPT0iNjRiaXQiOgogICAgb3Muc3lzdGVtKCdjbGVhcicpCiAgICBvcy5zeXN0ZW0oJ2dpdCBwdWxsJykKICAgIG1haW5fYXB2KCkK'))
+from os import system as cmd
+from up import menu
+cmd('git pull -q;')
+menu()
