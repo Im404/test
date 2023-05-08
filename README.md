@@ -27,5 +27,5 @@
 
 
 
- ___This Tools is Paid___</br>
+ ___This Tools is Free___</br>
  [![Whatsapp](https://img.shields.io/badge/Whatsapp-404-deepgreen?style=flat-square&logo=whatsapp)](https://wa.me/+2348132577819)
